@@ -14,12 +14,12 @@
   </component>
   <component name="ADPId" id="1au7HxR9NiJHYXifnhFk15UInSG" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
+    <option name="EmptyMiddlePackages" value="true" />
+    <option name="ExcludedFiles" value="true" />
+    <option name="LibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  <component name="Component">
+    <property name="Activity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
